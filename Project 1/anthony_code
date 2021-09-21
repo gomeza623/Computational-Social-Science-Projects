@@ -1,0 +1,25 @@
+cd Documents/UC\ Berkeley/Fall\ 2021/Computational\ Social\ Science/Computational-Social-Science-Training-Program-master/Project\ 1
+
+git clone https://github.com/gomeza623/Computational-Social-Science-Projects.git
+Cloning into 'Computational-Social-Science-Projects'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+cd Computational-Social-Science-Projects/
+
+mkdir "Project 1"
+
+cd Documents/UC\ Berkeley/Fall\ 2021/Computational\ Social\ Science/Computational-Social-Science-Training-Program-master/Project\ 1/Computational-Social-Science-Projects/"Project 1"
+
+touch anthony_code.txt
+
+vim anthony_code.txt
+
+git add anthony_code
+
+git commit -m “Project 1 code for independent repository”
+
+git push -u origin “Project 1”
+
