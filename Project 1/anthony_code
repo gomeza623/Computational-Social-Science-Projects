@@ -1,5 +1,4 @@
 cd Documents/UC\ Berkeley/Fall\ 2021/Computational\ Social\ Science/Computational-Social-Science-Training-Program-master/Project\ 1
-
 git clone https://github.com/gomeza623/Computational-Social-Science-Projects.git
 Cloning into 'Computational-Social-Science-Projects'...
 remote: Enumerating objects: 3, done.
@@ -21,5 +20,4 @@ git add anthony_code
 
 git commit -m “Project 1 code for independent repository”
 
-git push -u origin “Project 1”
-
+git push 
